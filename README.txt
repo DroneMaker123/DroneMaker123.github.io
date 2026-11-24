@@ -5,7 +5,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 Hello there!
 
-It's README file from my portfolio's repo.
+It's README file from my video game portfolio's repo.
 Portfolio was made using a simple one page template from html5up.net.
 
-Hope you have a nice day fellow friend!
+Hope you have a nice day!
